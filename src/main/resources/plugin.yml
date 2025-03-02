@@ -1,0 +1,4 @@
+name: gercekkten
+version: '1.0-SNAPSHOT'
+main: com.berlinxr.gercekkten.Gercekkten
+api-version: '1.20'
