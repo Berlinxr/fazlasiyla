@@ -1,2 +1,2 @@
 # fazlasiyla
-jar dosyasi build/libs icinde
+teorık olarak tururyunce ınek cıkarması lazm jar dosyasi build/libs icinde
